@@ -24,7 +24,7 @@
 方法2.先进入云崽主目录，然后使用以下命令快速安装插件：
 
 ```bash
-curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubusercontent.com/zqyaila/StrategyUpload/main/StrategyUpload.js"
+curl -o "./plugins/waves-plugin/apps/StrategyUpload.js" "https://raw.githubusercontent.com/zqyaila/wavePatch/main/StrategyUpload.js"
 ```
 
 通过 ~上传攻略帮助 来获取该帮助
